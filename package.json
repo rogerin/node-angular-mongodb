@@ -1,0 +1,11 @@
+{
+  "name"         : "node-angular",
+  "version"      : "0.0.1",
+  "description"  : "Simples app com node.js e angular.js",
+  "main"         : "server.js",
+  "author"       : "Rogerio Filho",
+  "dependencies" : {
+    "express"    : "3.x",
+    "mongoose"   : "3.x"
+    }
+}
